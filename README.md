@@ -5,6 +5,7 @@ TODO: overview
 ## Standard FIFO
 TODO: description
 TODO: picture
+![FIFO](/documentation/fifo.pdf)
 
 ## Arbiter
 TODO: description
