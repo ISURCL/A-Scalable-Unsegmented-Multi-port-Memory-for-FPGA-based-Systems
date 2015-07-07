@@ -10,7 +10,7 @@ TODO: picture
 ## Arbiter
 TODO: description
 TODO: picture
-![Arbiter](./documentaino/arbiter.jpg)
+![Arbiter](./documentation/arbiter.jpg)
 
 ## Fully-connected Interconnect
 TODO: description
