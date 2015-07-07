@@ -1,4 +1,8 @@
 
+\documentclass{standalone}
+\usepackage{tikz}
+\usepackage{fp}
+\begin{document}
         \begin{tikzpicture}[scale=.4]
             \foreach \i/\l in {0/A, 5/B, 10/C, 15/D}{
                 \draw[xshift=\i cm] (-2,1) -- (2,1) -- (1,-.5) -- (-1,-.5) -- cycle;
@@ -18,3 +22,4 @@
                 \draw (\i,5) -- (\i, 5.5);
             }
         \end{tikzpicture}
+\end{document}
