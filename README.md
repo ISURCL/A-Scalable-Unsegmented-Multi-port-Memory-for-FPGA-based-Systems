@@ -10,10 +10,12 @@ TODO: picture
 ## Arbiter
 TODO: description
 TODO: picture
+![Arbiter](./documentation/arbiter.jpg)
 
 ## Fully-connected Interconnect
 TODO: description
 TODO: picture
+![Fully-connected Interconnect](./documentation/crossbar.jpg)
 
 ## Omega Multistage Interconnect
 TODO: description
