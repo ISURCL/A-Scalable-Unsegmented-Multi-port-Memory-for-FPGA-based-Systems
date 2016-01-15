@@ -1,0 +1,3 @@
+TODO: repo directory
+TODO: copy.mk to copy files from repos to this project (eg. omega_multi_port_memory.v omega_multi_port_memory_tb.v fully_connected_multi_port_memory.v fully_connected_multi_port_memory_tb.v)
+TODO: simulation_and_synthesis.mk to simulate and synthesize the project

@@ -1,0 +1,12 @@
+[submodule "repos/inara-hdl-libraries"]
+	path = repos/inara-hdl-libraries
+	url = git@github.com:kevintownsend/inara-hdl-libraries.git
+[submodule "repos/linked_list_fifo"]
+	path = repos/linked_list_fifo
+	url = git@github.com:kevintownsend/linked_list_fifo.git
+[submodule "repos/std_fifo"]
+	path = repos/std_fifo
+	url = git@github.com:kevintownsend/std_fifo.git
+[submodule "repos/common"]
+	path = repos/common
+	url = git@github.com:kevintownsend/common.git
